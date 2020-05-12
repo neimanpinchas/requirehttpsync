@@ -1,0 +1,18 @@
+{
+  "name": "requirehttpsync",
+  "version": "1.0.0",
+  "description": "require node modules from http server synchronously (currently only single files)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "neimanpinchas/requirehttpsync"
+  },
+  "keywords": [
+    "/"
+  ],
+  "author": "Pinchas Neiman",
+  "license": "GPL-3.0-or-later"
+}

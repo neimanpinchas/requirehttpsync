@@ -1,6 +1,6 @@
 {
   "name": "requirehttpsync",
-  "version": "1.0.1",
+  "version": "1.1.1",
   "description": "require node modules from http server synchronously (currently only single files)",
   "main": "index.js",
   "scripts": {

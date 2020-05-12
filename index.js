@@ -12,7 +12,7 @@ var rsh=function(name,base=false){
     var exports=module.exports;
     //for recursive relative requires
     var requirehttpsync=rsh;
-    eval(res.getBody());
+    eval(res.getBody().toString());
     return exports;
 }
 
